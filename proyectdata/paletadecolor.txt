@@ -1,0 +1,133 @@
+PALETA DE COLORES – SIMBIOSIS DIGITAL (TFM)
+
+VISIÓN GENERAL:
+
+Paleta cromática diseñada para una web con estética oscura, inspirada en la simbiosis entre tecnología, naturaleza y organismos fúngicos inteligentes (micelio). Se buscan referencias visuales a Magic: The Gathering, Pokémon, Cyberpunk 2077 y The Last of Us, con fuerte uso de efectos bioluminiscentes y gradientes fríos.
+
+---
+
+BASE (MODO OSCURO):
+
+• Fondo principal: #0B0B0E (casi negro, con tinte púrpura)
+
+• Fondo secundario: #13151C (gris antracita con matiz azul)
+
+• Texto primario: #F0F0F2 (blanco suave, lectura cómoda)
+
+• Texto secundario / UI pasiva: #A7AAB3 (gris frío)
+
+• Líneas y bordes sutiles: #2B2D36
+
+---
+
+COLORES MICELIALES / ACENTO:
+
+• Verde bioluminiscente: #00FFA3
+
+• Azul micelial: #00E0FF
+
+• Coral fúngico: #FF6188
+
+• Morado simbiótico (hover/texto activo): #7A3FFF
+
+Uso sugerido:
+
+- Hover y CTA activos
+
+- Elementos vivos (ruleta, crecimiento fúngico)
+
+- Palabras clave animadas
+
+---
+
+COLORES POR ELEMENTO SIMBÓLICO (NFTs):
+
+ÉTER (interconexión, conciencia):
+
+• Base: #B388FF
+
+• Detalle: #D9BFFF
+
+• Gradiente: linear-gradient(135deg, #7A3FFF, #B388FF)
+
+AIRE (expansión, comunicación):
+
+• Base: #84FFFF
+
+• Detalle: #CCF9FF
+
+• Gradiente: linear-gradient(135deg, #00E0FF, #84FFFF)
+
+TIERRA (regeneración, estructura):
+
+• Base: #6A8D73
+
+• Detalle: #A0C7A4
+
+• Gradiente: linear-gradient(135deg, #486F5A, #A0C7A4)
+
+FUEGO (energía, transformación):
+
+• Base: #FF6E40
+
+• Detalle: #FFB199
+
+• Gradiente: linear-gradient(135deg, #FF3D00, #FFB199)
+
+AGUA (memoria, flujo):
+
+• Base: #00B2FF
+
+• Detalle: #80D4FF
+
+• Gradiente: linear-gradient(135deg, #0066FF, #80D4FF)
+
+---
+
+GRADIENTES GENERALES SUGERIDOS:
+
+1. Bioluminiscencia (hover fondo o animación micelio):
+
+→ linear-gradient(90deg, #00FFA3 0%, #00E0FF 100%)
+
+2. Rareza legendaria (borde carta o glow):
+
+→ radial-gradient(circle, #B388FF, #7A3FFF, transparent)
+
+3. Fondo de ruleta (sistema de loot box):
+
+→ conic-gradient(from 180deg at center, #FF3D00, #00B2FF, #7A3FFF, #00FFA3)
+
+---
+
+NOTAS DE USO PARA UI:
+
+- Textos destacados y stats: usar #7A3FFF o #00E0FF
+
+- Botones CTA: fondo con gradiente ÉTER o MICELIO
+
+- Bordes reactivos o hover: aplicar bioluminiscencia suave (#00FFA3 glow)
+
+- Secciones de contenido (Universo, NFTs, Corto): separar con fondo base + overlay gradientes por elemento
+
+---
+
+ACCESIBILIDAD:
+
+Todos los colores tienen contraste AA en modo oscuro. Asegurar legibilidad en móviles usando tonos base o añadir sombra sobre gradientes brillantes.
+
+---
+
+ARCHIVO BASE PARA Figma:
+
+Sugiero crear un set de estilos llamado “Simbiosis Digital – UI Colors” con tokens:
+
+• --color-bg-primary
+
+• --color-text-primary
+
+• --color-accent-myc
+
+• --color-element-agua, etc.
+
+---

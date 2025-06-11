@@ -1,0 +1,532 @@
+Introducción y Justificación (4-9)
+-¿Qué? / ¿Por qué? / ¿Para quién?
+-Simbiosis Digital (Introducción Proyecto)
+Investigación Conceptual (10-17)
+-Redes en la Naturaleza (Micelio y su inteligencia distribuida)
+-Redes en la IA (Modelos computacionales y su inspiración biológica)
+-Relación entre biotecnología y moda digital -Relación entre el micelio y la BlockChain / NFT
+Desarrollo de la Colección de Moda Digital (18-25)
+-Bases y Fundamentos / Ecosistema de Cartas Miceliales
+-Relación entre los Elementos Simbólicos y las Redes de Micelio
+-Inspiración en formas, texturas y materialidad (Moodboard)
+-Diseño de prendas en 3D
+Cortometraje Conceptual (26-29)
+-Contextualización
+-Espacios
+Colección de NFTs (30-33)
+-Representación y explicación digital de los looks / NFTs
+-Cartas de Poder Micelial / Cartas Comunes
+-Cartas de Poder Micelial / Cartas Raras y Legendarias
+Conclusión y Webgrafía (34-36)
+Índice de Contenidos Fases del Proceso de Trabajo
+Investigación y Definición Conceptual
+-Definición de la identidad visual y narrativa del proyecto.
+-Recopilación de información sobre micelio, IA y moda digital.
+-Refinamiento del concepto trasladado a la Web3 y NFTs.
+Desarrollo de la Colección
+-Exploración de texturas, materiales y comportamientos dinámicos.
+-Diseño inicial de prendas en Clo3D y Blender.
+-Pruebas de bioluminiscencia y simulaciones.
+Producción del Cortometraje
+-Creación del entorno en Blender.
+-Animación de las prendas dentro del universo narrativo.
+-Composición visual y postproducción en After Effects.
+Creación de los NFT’s
+-Renderizado de las prendas en los escenarios adecuados.
+-Creación de los NFT’s
+-Presentación de los NFT’s en plataformas de venta.
+Revisión y Presentación Final
+-Ajustes finales en los renders y animaciones.
+-Documentación completa del proceso.
+-Preparación de la presentación y entrega del TFM.
+Simbiosis Digital
+La moda digital está redefiniendo la manera en que concebimos la indumentaria, fusionando diseño, tecnología y
+sostenibilidad. Este TFM propone un enfoque innovador
+en esta disciplina, explorando la intersección entre biología, inteligencia artificial y moda digital a través de una colección conceptual en 3D inspirada en el micelio y las redes
+neuronales artificiales.
+El micelio, una red de filamentos fúngicos, opera como un
+sistema de inteligencia distribuida en la naturaleza, optimizando la distribución de recursos sin un centro de control
+fijo. De manera similar, las redes neuronales artificiales procesan información de forma descentralizada, aprendiendo
+y evolucionando en función de su entorno. A partir de este
+paralelismo, la colección de moda digital busca visualizar
+un futuro donde la humanidad aprovecha la biotecnología
+y la inteligencia artificial como herramientas para la regeneración del planeta.
+El desarrollo del proyecto se divide en tres pilares fundamentales:
+1. Colección de moda digital (3-5 looks en 3D), con prendas que reflejan el comportamiento del micelio y los principios
+de las redes neuronales.
+2. Cortometraje conceptual, que servirá como narrativa visual del proyecto, ambientado en un laboratorio donde se investigan y desarrollan estas prendas como última esperanza en un mundo apocalíptico.
+3. Colección de NFT’s, que permitirá una aproximación comercial y artística en el ecosistema digital, ampliando el alcance
+del proyecto a la comunidad Web3.
+La metodología utilizada combinará herramientas digitales
+como Clo 3D, Blender, Substance y DAZ Studio, aplicando
+técnicas de diseño generativo y simulación de materiales
+inspirados en la biología. La experimentación con texturas,
+estructuras y procesos de crecimiento algorítmico será clave para la creación de las prendas digitales.
+¿Qué voy a hacer?
+Este TFM propone una exploración experimental en el diseño
+de moda digital a través de la intersección entre la biología y la
+inteligencia artificial. Se desarrollará una colección conceptual
+en 3D de entre 3 y 5 looks, tomando como referencia el comportamiento del micelio y su relación con las redes neuronales
+artificiales. La colección será presentada mediante un cortometraje animado, que servirá como soporte narrativo y conceptual,
+representando un laboratorio en el que se investiga y evoluciona
+esta tecnología orgánica como última esperanza en un mundo
+apocalíptico. Además, para la parte más comercial y artística, se
+desarrollará una colección de NFT’s en paralelo, integrando la
+moda digital en el ecosistema Web3.
+El proyecto utilizará herramientas como Clo 3D, Blender, Substance o DAZ Studio, permitiendo un enfoque innovador en la
+creación de prendas digitales adaptativas inspiradas en la lógica de crecimiento del micelio y los sistemas de aprendizaje de
+la IA.
+¿Por qué lo voy a hacer?
+Decidí hacer este proyecto porque me interesa imaginar cómo será
+el futuro de la moda cuando la biología y la tecnología no sean
+cosas separadas, sino parte de un mismo sistema. Me inspira especialmente cómo funciona el micelio: una red viva, inteligente, que
+conecta seres distintos, reparte recursos y se adapta sin necesidad
+de un centro de control. Me pareció una forma muy poderosa —y
+real— de pensar en cómo podríamos diseñar ropa que también
+funcione así: conectada, adaptable, simbiótica.
+También creo que la moda digital está abriendo un espacio nuevo
+para expresarse, para diseñar sin los límites físicos ni el impacto
+ambiental del textil tradicional. Cada vez más gente está interesada en experimentar con su identidad en mundos virtuales, y eso
+hace que esta forma de crear tenga mucho sentido ahora mismo.
+Mi objetivo principal es crear una colección de moda digital que
+represente un futuro donde la humanidad, después de un colapso
+ecológico, empieza a usar tecnologías inspiradas en la naturaleza
+para regenerar el planeta. No solo van a ser prendas bonitas, sino
+que tendrán una historia detrás. Para eso también estoy desarrollando un cortometraje animado que lo explique visualmente, y una
+colección de NFTs que hacen que la experiencia sea interactiva y
+coleccionable, como si cada prenda tuviera vida propia.
+¿Para quién lo voy a hacer?
+Este proyecto está dirigido a distintos públicos:
+• Industria de la moda digital y creativos en 3D: Diseñadores,
+artistas digitales y creadores interesados en la moda virtual, el
+diseño generativo y las experiencias inmersivas.
+• Entusiastas del diseño y la tecnología: Personas interesadas
+en la convergencia entre biología, inteligencia artificial y creatividad digital.
+• Comunidad Web3 y NFT: Coleccionistas y creadores de NFT’s
+que buscan proyectos con una identidad conceptual fuerte y un
+enfoque innovador en moda digital.
+• Marcas y laboratorios de investigación en biotecnología
+aplicada a la moda: Empresas que exploran nuevos materiales
+y métodos de producción sostenible en la moda digital y física.
+Este TFM no solo desarrolla una propuesta artística y conceptual, sino que también busca generar impacto en la industria de
+la moda digital, explorando un modelo de creación más sostenible, inspirado en la naturaleza y su inteligencia distribuida.
+Ivestigación Conceptual
+Redes de la Naturaleza (Micelio y su Inteligencia Distribuida)
+El micelio es una red de filamentos fúngicos que actúa como el sistema nervioso
+de los hongos, extendiéndose bajo el suelo y formando complejas interacciones
+con su entorno. Su capacidad para distribuir información y recursos lo convierte
+en un sistema de inteligencia descentralizada altamente eficiente. Su estudio
+ha llevado a descubrimientos sobre cómo las redes biológicas pueden inspirar
+modelos de tecnología y computación.
+Composición: El micelio está
+formado por hifas, estructuras
+filamentosas que se extienden
+en todas direcciones, interco
+-
+nectando organismos en el
+ecosistema.
+Red de Comunicación: Fun
+-
+ciona como una “Internet bio
+-
+lógica” permitiendo el intercambio de nutrientes, agua y
+señales químicas entre árboles
+y otras plantas a través de la
+micorriza.
+Crecimiento Adaptativo: Se expande en fun
+-
+ción de las condiciones ambientales, optimi
+-
+zando la captación de recursos sin un centro de
+control fijo.
+Su capacidad de redistribuir nutrientes según
+la necesidad de cada organismo conectado es
+comparable a los algoritmos de redes neurona
+-
+les artificiales.
+Aprendizaje y Memo
+-
+ria Biológica: Algunos
+estudios han demos
+-
+trado que el micelio
+puede “recordar” ca
+-
+minos previamente ex
+-
+plorados y evitar zonas
+de peligro.
+Modelos de Redes Neuronales: La estructura descentralizada del
+micelio ha inspirado sistemas de IA que funcionan mediante proce
+-
+samiento distribuido.
+Algoritmos de Optimización: Investigadores han utilizado patrones
+de crecimiento del micelio para mejorar diseños de redes urbanas y
+circuitos electrónicos.
+Computación Biológica: Experimentos recientes exploran el uso del
+micelio como un “procesador vivo” capaz de realizar cálculos sim
+-
+ples.
+El micelio es un claro ejemplo
+de inteligencia distribuida en
+la naturaleza, con implicacio
+-
+nes que van desde la ecología
+hasta la tecnología y el diseño
+digital.
+Su capacidad de optimización
+y comunicación simbótica no
+solo nos ofrece un modelo de
+aprendizaje para la IA, sino que
+también inspira nuevas formas
+de concebir estructuras, mate
+-
+riales y experiencias inmersivas
+en la moda digital del futuro.
+Texturas y Estructuras: El crecimiento orgánico del micelio puede
+inspirar patrones de diseño generativo para moda digital.
+Materiales Inteligentes: Investigaciones en biomateriales exploran
+cómo utilizar hongos para crear textiles sostenibles y reactivos.
+Computación Biológica: Simulación en Diseño 3D: La lógica de creci
+-
+miento del micelio puede aplicarse en software de modelado digital
+para generar prendas adaptativas.
+Ivestigación Conceptual
+Redes en la Inteligencia Artificial (Modelos Computacionales e Inspiración Biológica)
+Las redes neuronales artificiales son modelos computacionales inspirados en el
+funcionamiento del cerebro y otros sistemas biológicos. Estas redes han revolucionado la inteligencia artificial (IA), permitiendo avances en aprendizaje profundo, reconocimiento de patrones y toma de decisiones autónomas. A lo largo de
+la historia, la biología ha servido de inspiración para la IA, y el estudio de sistemas descentralizados como el micelio ha abierto nuevas vías de investigación en
+computación distribuida y algoritmos de optimización.
+Redes Neuronales Artificiales
+(ANNs): Basadas en la estructura del
+cerebro humano, estas redes procesan información mediante capas de
+nodos interconectados, simulando
+sinapsis.
+Redes Neuronales Convolucionales (CNNs): Utilizadas en visión por
+computadora y reconocimiento de
+imágenes, replican la forma en que
+el cerebro procesa datos visuales.
+Redes Neuronales Recurrentes
+(RNNs): Diseñadas para procesar
+secuencias de datos, utilizadas en
+procesamiento del lenguaje natural
+y análisis de series temporales.
+Redes Generativas Adversariales
+(GANs): Modelos de IA capaces de
+generar contenido visual o sonoro a
+partir de datos de entrenamiento.
+Sistemas descentralizados: Al igual que el micelio y otras redes biológicas, la IA
+está evolucionando hacia modelos distribuidos y no jerárquicos.
+Optimización evolutiva: Algoritmos inspirados en la selección natural, como los
+algoritmos genéticos, buscan soluciones eficaces a problemas complejos.
+Computación fúngica: Investigaciones recientes exploran el uso de hongos como
+procesadores biológicos para realizar cálculos descentralizados.
+Aplicaciones en Moda Digital y Diseño
+Diseño Generativo: Uso de IA para crear patrones inspirados en redes
+biológicas.
+Texturas Dinámicas: Modelado de superficies y materiales que se comporten de forma reactiva, como el crecimiento del micelio.
+Simulación de Evolución Textil: Desarrollo de prendas que cambian su
+estructura en función de parámetros definidos por IA.
+La IA y las redes biológicas
+comparten principios fundamentales de adaptabilidad,
+distribución de información y
+optimización.
+A medida que la tecnología
+avanza, la intersección entre
+estos campos abre nuevas
+oportunidades para el diseño
+digital, la moda y la creatividad en entornos virtuales.
+Conexiones entre Micelio e IA
+Procesamiento de información distribuido: Tanto el micelio como las redes neuronales
+artificiales procesan información en paralelo, optimizando recursos.
+Aprendizaje adaptativo: El micelio cambia su crecimiento según el entorno, de manera
+similar a los modelos de IA que ajustan sus parámetros para mejorar su desempeño.
+Interconectividad: El micelio forma redes simbóticas con otros organismos, mientras
+que la IA aprende a interconectar datos de distintas fuentes para mejorar su predicción
+y generación de contenido.
+Ivestigación Conceptual
+Relación entre Biotecnología y Moda Digital
+La intersección entre biotecnología y moda digital está redefiniendo el diseño
+textil en entornos virtuales y físicos. A medida que los avances en biotecnología
+permiten la creación de materiales inteligentes y organismos vivos aplicados a la
+moda, el diseño digital aprovecha estas innovaciones para generar prendas que
+evolucionan, se adaptan y responden al entorno.
+Biotecnología Aplicada a la Moda
+Materiales Biotecnológicos: Uso de
+biomateriales como micelio, cuero
+cultivado en laboratorio y tejidos
+que se regeneran o se descomponen de manera sostenible.
+Textiles Reactivos: Prendas que
+cambian de color, textura o forma en
+función del ambiente o las señales
+corporales.
+Autoensamblaje de Prendas: Inspirado en la naturaleza, ciertos materiales biotecnológicos pueden
+ensamblarse o ajustarse automáticamente.
+Moda Digital y su Convergencia con la
+Biotecnología
+Simulación de Materialidad: El diseño
+digital permite representar con precisión las propiedades de biomateriales
+en entornos 3D.
+Inspiración en Crecimiento Biológico:
+Modelado generativo basado en patrones de crecimiento natural, como el micelio o redes neuronales.
+Interactividad en el Metaverso: Prendas
+virtuales que reaccionan en tiempo real
+a las interacciones del usuario.
+La relación entre biotecnología y moda digital
+está transformando cómo concebimos el diseño textil. La integración de sistemas biológicos
+con tecnologías digitales permite la creación
+de prendas inteligentes, sostenibles y adaptativas, abriendo nuevas posibilidades para la expresión personal y la innovación en la industria
+de la moda.
+Impacto y Futuro de la Moda Biotecnológica Digital
+Sostenibilidad: Reducción de desperdicio textil mediante diseño digital y
+materiales biodegradables.
+Personalización Extrema: Creación de prendas únicas basadas en datos
+biológicos del usuario.
+Experiencias Inmersivas: Combinación de realidad aumentada, IA y biomateriales en la moda del futuro.
+Parálelo entre el Crecimiento Biológico y el Diseño Digital
+Redes Adaptativas: La evolución del micelio y su
+respuesta al entorno sirven como modelo para
+prendas que se modifican digitalmente.
+Optimización Basada en IA: Algoritmos generativos que simulan la selección natural para desarrollar diseños eficientes y adaptativos.
+Fusión de lo Orgánico y lo Sintético: Integración
+de estéticas biotecnológicas con diseño digital
+para una nueva visión de la moda.
+Ivestigación Conceptual
+Relación entre Redes de Micelio y Blockchain/NFT
+La inclusión de NFT’s y blockchain no es solo una herramienta comercial en el proyecto, sino una extensión natural del concepto de redes vivas y
+distribuidas. La descentralización del micelio inspira una visión donde la tecnología no está controlada por una sola entidad, sino que se autoorganiza y coopera, como un ecosistema digital simbiótico. Así, el mundo fungi no solo inspira las formas y texturas, sino también la lógica operativa
+de tu sistema de moda digital.
+Micelio como Red Descentralizada Natural
+El micelio está compuesto por hifas interconectadas que se extienden
+bajo tierra, formando una red sin un centro de control.
+Distribuye información, recursos y señales químicas entre plantas y
+árboles a través de la micorriza.
+Opera bajo principios de eficiencia, adaptabilidad y simbiosis, permitiendo que los organismos colaboren para sobrevivir.
+Blockchain como Red Descentralizada Digital
+El blockchain es un sistema de registro distribuido y sin autoridad central, donde cada nodo tiene copia de la información.
+La información (transacciones, contratos, tokens) se valida colectivamente a través de consenso entre nodos.
+Opera bajo principios de transparencia, resistencia a la censura y seguridad compartida.
+Elemento Micelio Elemento Blockchain/NFT Relación
+Red de hifas distribuidas Red de nodos (blockchain) Ambos operan en sistemas sin jerarquía central
+Intercambio simbiótico de recursos Intercambio de valor y datos digitales La cooperación define el sistema, no la competencia
+Adaptabilidad a entornos cambiantes Resiliencia frente a fallos o ataques La descentralización fortalece el sistema
+Conexión entre especies vegetales distintas Conexión entre usuarios/creadores diversos Favorecen la interdependencia entre partes
+Memoria biológica (evitar caminos peligrosos) Registro inmutable de transacciones Aprenden y evolucionan a través de la experiencia acumulada
+Desarrollo de la Colección
+Ecosistema de Cartas Miceliales
+NFT’s como “Cartas de Poder Micelial”
+Cartas de Mejora: Expansión Evolutiva
+Conclusión
+En el marco del presente TFM, se propone una aplicación experimental de tecnología blockchain a través del desarrollo de una colección de NFT’s
+simbióticos que expanden la narrativa conceptual del proyecto más allá de la moda digital en sí. Inspirados en la lógica descentralizada de las redes
+de micelio y su paralelismo con la arquitectura del blockchain, los NFT no se entienden aquí como simples representaciones visuales, sino como
+entidades activas dentro de un ecosistema simbiótico y evolutivo.
+Inspirándome en este concepto, daré forma a una serie de cualidades que infundirán alma, intención y narrativa a cada prenda que está por venir
+La visualización de cada NFT mantiene una fuerte conexión con el imaginario micológico, empleando renderizados 3D texturizados y animaciones
+que evocan el crecimiento orgánico, la bioluminiscencia y la regeneración natural.
+El sistema NFT toma la forma de una colección de cartas digitales,
+cada una vinculada a una prenda generada en Clo3D. Estas cartas
+—denominadas “Cartas de Poder Micelial”— están jerarquizadas se
+-
+gún su nivel de conectividad, adaptabilidad y rareza. Cada prenda es
+concebida como una extensión simbiótica del micelio, y su represen
+-
+tación en NFT incluye atributos como:
+Además de las cartas-prenda, se introducen
+NFT’s secundarios denominados Cartas de Me
+-
+jora, que actúan como catalizadores, potencia
+-
+dores o mutaciones dentro del ecosistema. Estas
+cartas permiten modificar, fusionar o potenciar
+atributos de las cartas principales, establecien
+-
+do una dinámica de evolución y personalización
+simbiótica. Ejemplos de estas mejoras incluyen:
+Este sistema NFT no solo ofrece una vía de co
+-
+mercialización alternativa para la colección de
+moda digital, sino que se constituye como un
+mecanismo narrativo, estético y estructural co
+-
+herente con los fundamentos del proyecto. La
+tecnología blockchain se convierte en un refle
+-
+jo funcional de las redes miceliales: descentra
+-
+lizada, simbiótica, adaptable. De esta forma, se
+establece un ecosistema creativo donde moda,
+biología, inteligencia artificial y economía digital
+convergen en una propuesta artística integrada
+y visionaria.
+• Conectividad micelial (grado de interacción con otras entidades)
+• Adaptabilidad simbiótica (capacidad de respuesta al entorno digital)
+• Memoria biológica (historial evolutivo de la prenda)
+• Elemento simbiótico (clasificación natural: tierra, aire, agua, fuego)
+• Espora de Mutación: cambia un atributo de
+una carta.
+• Micorriza Fuerte: fusiona dos cartas comunes
+en una más rara.
+• Recuerdo Micelial: desbloquea versiones ante
+-
+riores de una prenda.
+Desarrollo de la Colección
+Cartas de Poder Micelial / Relación entre los Elementos Simbólicos y las Redes de Micelio
+ÉTER – Red, conciencia, integración
+Aunque el éter no tiene correlato físico
+directo en la ciencia moderna, puede
+representarse como el principio de
+interconexión sistémica. El micelio es
+probablemente el mejor modelo natural para ilustrar cómo una red descentralizada puede generar un sistema de
+comunicación, soporte y aprendizaje
+compartido.
+AIRE – Conexión, comunicación, expansión
+El micelio opera como una red aérea invisible de señales: intercambia impulsos
+químicos con otras plantas, advierte de
+ataques o enfermedades y promueve
+simbiosis a gran escala. Esto lo convierte en un agente de comunicación que
+se manifiesta también en el aire.
+TIERRA – Estabilidad, regeneración,
+anclaje
+El micelio es la arquitectura viva del
+suelo. Sostiene la estructura terrestre,
+fija minerales y genera simbiosis regenerativas. A nivel ecológico, representa
+lo más estable, persistente y profundo:
+exactamente como el elemento tierra.
+FUEGO – Transformación, impulso,
+energía
+El micelio es una fuerza transformadora:
+convierte la muerte en vida, reciclando
+materia orgánica. Como el fuego, no
+es solo destructor, sino generador de
+nuevas condiciones. Además, su actividad metabólica genera calor y modifica
+su entorno químico.
+AGUA – Flujo, memoria, transporte
+La estructura capilar del micelio permite el flujo constante de sustancias,
+emulando el comportamiento del agua.
+Además, su capacidad de modificar
+el flujo según estímulos externos es
+análoga a la inteligencia adaptativa del
+agua en sistemas dinámicos.
+Desarrollo de la Colección
+Moodboard INSPO
+Desarrollo de la Colección
+Look 1 (Éter) Look 2 (Tierra) Look 3 (Fuego) Look 4 (Aire) Look 5 (Agua)
+Cortometraje conceptual
+Contextualización y Espacios
+El cortometraje funciona como cápsula narrativa y visual del universo conceptual desarrollado en este Trabajo Fin de Máster. A
+través de una secuencia simbólica y sin diálogo, se representa un futuro apocalíptico en el que el ecosistema ha colapsado, dejando tras de sí un paisaje árido y deshabitado.
+La cámara guía al espectador hacia el interior de un laboratorio —único espacio aún activo— donde se llevan a cabo experimentos en la frontera entre tecnología e inteligencia biológica. Es aquí donde se desarrolla la fusión entre redes miceliales y sistemas
+de inteligencia artificial, dando lugar a un nuevo tipo de entidad: prendas simbióticas, vivas, conectadas y en evolución constante.
+En su tramo final, un zoom out revela el mismo escenario inicial, que ahora ha cambiado: la regeneración ha comenzado. La materia artificial y orgánica conviven, el paisaje vuelve a latir. Este gesto final sintetiza la idea central del proyecto: imaginar un futuro
+donde la moda digital no es solo expresión estética, sino un sistema simbiótico regenerativo, nacido del colapso para volver a
+conectar a la humanidad con su entorno.
+Espacio 4
+Experimento
+entre tecnología
+e inteligencia
+biológica
+Colección de NFTs
+Cartas de Poder Micelial / Cartas Comunes
+ÉTER – Traducción Límbica
+Sistema cerebral que procesa las emociones, una carta que “traduce señales”
+o “canaliza frecuencias” dentro de la red
+simbiótica etérica. Y su patrón pixelado
+parece capturar y decodificar información visual de la red.
+AIRE – Algoritmo Brisa
+Una carta que traduce el movimiento
+del aire en datos visuales. “Algoritmo”
+hace referencia a su patrón organizado y
+sistemático, mientras que “Brisa” mantiene su vínculo con la ligereza, el viento
+y la naturaleza volátil del elemento aire.
+TIERRA – Corteza Lítica
+Referencia a la fusión entre la corteza
+vegetal (orgánica) y las formaciones líticas (mineral). Refuerza la idea de una
+prenda que representa capas históricas,
+geológicas y simbióticas acumuladas
+con el tiempo.
+FUEGO – Barrera Ígnea
+Esta carta representa un artefacto que
+controla la liberación energética dentro
+del ecosistema micelial. Similar a una válvula o cinturón de contención volcánica,
+su misión es mantener bajo control lo que
+no puede eliminarse.
+AGUA – Ciclo Plasmático
+Este carta conecta con el agua como un
+ciclo constante: líquido, vapor, sólido,
+memoria molecular. “Plasmático” sugiere
+un estado de transformación, con energías cargadas, como si la prenda contuviera el agua en su forma más activa, entre lo físico y lo energético.
+Colección de NFTs
+Cartas de Poder Micelial / Cartas Raras y Legendarias
+ÉTER – Nodo Umbral
+Punto de cruce o transición entre planos,. “Nodo” alude a la red micelial, y
+“Umbral” sugiere una conexión entre lo
+visible y lo intangible.
+AIRE – Portadora de Pulso
+Entidad que canaliza o transmite señales dentro de la red simbiótica. “Portadora” sugiere su rol de enlace, mientras
+que “Pulso” remite tanto a vibraciones
+del aire como a latidos o impulsos eléctricos.
+TIERRA – Crisálida de Micelio
+Contenedora y protectora. Transformación desde un estado primario hacia
+otro superior. Su forma envolvente y su
+textura viva sugieren que actúa como
+refugio y catalizador de regeneración
+dentro del sistema simbiótico.
+FUEGO – Anillo Volcánico
+Incandescente, inestable, a punto de
+erupcionar. Representa una carta de alto
+voltaje simbiótico, capaz de transformar
+su entorno y liberar energía en ráfagas.
+AGUA – Sensor Lacrimal
+Mecanismo biológico de respuesta. Esta
+prenda representa una interfaz sensible,
+capaz de detectar estados del entorno y
+manifestarlos a través del color o textura.
+Conclusión
+Este proyecto nació casi como una idea fugaz, una de esas preguntas que aparecen en silencio y que no te dejan del todo tranquilo. Empecé
+preguntándome cómo funcionaban los hongos. Después, ¿y si…? ¿Y si el micelio pudiera enseñarnos algo sobre cómo habitar el mundo? ¿Y si la
+inteligencia artificial no fuera una amenaza, sino una aliada simbiótica?
+Lo que empezó siendo un ejercicio de curiosidad, se convirtió en una investigación profunda, en una búsqueda entre naturaleza y tecnología, entre
+arte y función, entre lo digital y lo vivo. He aprendido a diseñar en 3D, sí. He aprendido a usar herramientas nuevas. Pero lo más valioso ha sido
+entender que la moda puede ser un canal para hablar del futuro, de cómo podríamos reconstruir lo que nos queda.
+No siempre he entendido del todo mi propio proyecto, y quizás eso es lo que más me ha enseñado. Porque crear también es perderse, dejar que
+la idea te lleve, confiar en la forma aunque el sentido llegue después. Hubo un punto de inflexión: cuando decidí no quedarme solo en lo artístico,
+sino explorar lo simbólico y lo funcional, pensar en el Web3, en los NFTs, en la posibilidad de abrir puertas más allá de la pantalla.
+No quiero que quien vea este proyecto entienda todo. No es necesario. Lo que me gustaría es que se quedaran con una sensación: la de un futuro
+posible, más utópico que distópico, más simbiótico que competitivo. Un lugar donde la tecnología y la biología no se anulan, sino que se complementan. Como el micelio y la IA. Como el arte y la ciencia.
+Hoy siento que soy más capaz. Que cada año, cada trabajo, me acerca más a lo que quiero: vivir de lo que creo. Este TFM no es un punto final,
+sino un nodo más en mi red personal, desde donde seguir creciendo, conectando y creando.
+Webgrafía
+• MycoWorks – The Future of Materials
+https://www.mycoworks.com/
+Empresa pionera en la creación de biomateriales a partir de micelio. Referente en moda
+y sostenibilidad.
+• OpenAI – Artificial Intelligence Research and Tools
+https://www.openai.com/
+Base conceptual para explorar la evolución de los modelos de IA y su relación con redes
+neuronales.
+• Fashion Innovation Agency (UAL London)
+https://www.fialondon.com/
+Iniciativas de moda digital, realidad aumentada y nuevas tecnologías aplicadas al diseño.
+• CLO Virtual Fashion
+https://www.clo3d.com/
+Software utilizado en el desarrollo del proyecto. Referencia técnica y creativa.
+• Blender Foundation
+https://www.blender.org/
+Software libre de modelado y animación 3D. Usado en el cortometraje del proyecto.
+• Krea AI – Text-to-Image Platform
+https://www.krea.ai/
+Herramienta de generación visual para diseño conceptual y NFT artísticos.
+• NFT Now – Understanding Non-Fungible Tokens
+https://nftnow.com/
+Plataforma informativa sobre NFTs, coleccionismo digital y economía Web3.
+• Decentraland – Virtual World Built on the Blockchain
+https://decentraland.org/
+Referencia clave para explorar aplicaciones de moda digital y NFTs en entornos virtuales.
+• The Mushroom at the End of the World – Anna Tsing (MIT Press)
+https://www.mitpress.mit.edu/9780691220550/
+Aunque es un libro, la autora mantiene publicaciones y conferencias online sobre ecología
+simbiótica y micelio.
+• The Fabricant – Digital Fashion House
+https://www.thefabricant.com/
+Ejemplo de cómo la moda digital se posiciona en entornos Web3 y NFTs.

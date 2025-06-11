@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  roadtopiris-web-dev:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    ports:
+      - "0.0.0.0:3000:3000"  # Forzar binding a todas las interfaces
+    container_name: roadtopiris-web-dev
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=development
+      - CHOKIDAR_USEPOLLING=true
+      - HOST=0.0.0.0
+      - PORT=3000
+    volumes:
+      - .:/app
+      - /app/node_modules
+    command: npm start

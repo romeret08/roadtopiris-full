@@ -1,0 +1,121 @@
+OBJETIVO DE LA WEB:
+
+Crear una experiencia inmersiva para presentar y comercializar una colección de moda digital conceptual basada en redes miceliales, inteligencia artificial y NFT. El diseño debe comunicar el universo visual del proyecto, permitir la visualización de las prendas en 3D/NFT y facilitar la interacción tipo “loot box” para la compra.
+
+---
+
+ESTRUCTURA PRINCIPAL (SITEMAP FUNCIONAL):
+
+1. HOME / INTRODUCCIÓN
+
+- Imagen/video hero (render del universo micelial o teaser del corto)
+
+- Texto de bienvenida: “Explora un futuro donde la moda es simbiótica”
+
+- Botón CTA: “Entrar al ecosistema”
+
+2. UNIVERSO
+
+- Sección narrativa del contexto postapocalíptico
+
+- Referencia al micelio como red viva / descentralizada
+
+- Vínculos con IA, biotecnología y moda digital
+
+- Animaciones ligeras (bioluminiscencia, redes vivas)
+
+3. COLECCIÓN DIGITAL
+
+- Galería de 5 looks (Éter, Tierra, Fuego, Aire, Agua)
+
+- Fichas técnicas y atributos simbióticos de cada prenda
+
+- Visualización 3D o video loop del look
+
+- Tag de rareza (común/legendaria)
+
+4. NFT MICELIALES
+
+- Explicación del sistema de cartas NFT
+
+- Tipos de cartas: prenda, mejora (espora de mutación, micorriza fuerte, etc.)
+
+- Rarity visual (colores/sello)
+
+- Botón: “Mintear NFT” → Ruleta / Loot box animada
+
+5. CORTOMETRAJE
+
+- Video embebido (teaser o versión completa)
+
+- Descripción conceptual y estética del corto
+
+- Making-of opcional o moodboard
+
+6. TIENDA / MARKETPLACE
+
+- Grid con NFTs disponibles
+
+- Conectividad con wallet (MetaMask u otra)
+
+- Filtros por rareza / elemento / tipo
+
+- Botón de compra con precio en ETH o equivalente en euros
+
+7. SOBRE EL PROYECTO
+
+- Autoría / TFM / créditos
+
+- Inspiraciones: micelio, IA, diseño especulativo
+
+- Enlaces a Behance, Instagram, Twitter
+
+---
+
+IDENTIDAD VISUAL:
+
+- Estética: Organic Techwear / Digital Alchemy
+
+- Paleta: fondo oscuro (negro, púrpura profundo, tierra), acentos bioluminiscentes (verde ácido, azul eléctrico, coral fúngico)
+
+- Tipografía: futuristic serif + monospace para datos técnicos
+
+- Interacciones: microtransiciones, animaciones líquidas/redes dinámicas
+
+---
+
+FUNCIONALIDADES CLAVE:
+
+- Visualización en 3D de prendas (WebGL, Three.js o video loop)
+
+- Minteo aleatorio de NFT (loot box / ruleta)
+
+- Conexión wallet (Web3)
+
+- Web responsive, accesibilidad AA
+
+- Performance optimizado para navegadores desktop y móvil
+
+---
+
+REFERENCIAS VISUALES:
+
+- The Fabricant
+
+- DressX
+
+- Decentraland
+
+- MycoWorks
+
+- Proyecto “The Mushroom at the End of the World”
+
+---
+
+PLAZO ESTIMADO:
+
+Entrega del mockup en Figma: [agregar fecha objetivo]
+
+Feedback iterativo: semanal
+
+Desarrollo técnico: fase posterior
